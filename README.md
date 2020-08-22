@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=bac3phi" alt="bac3phi" />
 </p>
 
-<img align='right' src="https://www.serebii.net/pokemonsmile/pokemon/143.png" width="230">
+<img align='right' src="https://i.imgur.com/E5cpsDD.jpg" width="400">
 
 <br>
 
